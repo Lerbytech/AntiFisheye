@@ -1,0 +1,15 @@
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\bin\Debug\AntiFisheye.exe
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\bin\Debug\AntiFisheye.pdb
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\bin\Debug\Emgu.CV.UI.dll
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\bin\Debug\Emgu.CV.World.dll
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\bin\Debug\ZedGraph.dll
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\bin\Debug\Emgu.CV.UI.xml
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\bin\Debug\Emgu.CV.World.xml
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\bin\Debug\ZedGraph.xml
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\bin\Debug\zh-CN\ZedGraph.resources.dll
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\obj\Debug\AntiFisheye.csprojResolveAssemblyReference.cache
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\obj\Debug\AntiFisheye.Properties.Resources.resources
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\obj\Debug\AntiFisheye.csproj.GenerateResource.Cache
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\obj\Debug\AntiFisheye.exe
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\obj\Debug\AntiFisheye.pdb
+c:\users\админ\documents\visual studio 2012\Projects\AntiFisheye\AntiFisheye\obj\Debug\AntiFisheye.Form1.resources
